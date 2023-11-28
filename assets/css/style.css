@@ -89,7 +89,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: rgb(15, 199, 231);
 }
 
 .overlay-mf {
@@ -1110,6 +1110,7 @@ a:hover {
 --------------------------------------------------------------*/
 .footer-paralax {
   padding: 4rem 0 0 0;
+  margin-bottom: 0px;
 }
 
 .contact-mf {
@@ -1245,7 +1246,6 @@ a:hover {
 .box-comments .comment-children {
   margin-left: 40px;
 }
-
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
